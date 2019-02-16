@@ -6,6 +6,9 @@ Main database page: [here](https://github.com/marcdemers/FIGR-8/ "FIGR-8-PNG")
 
 Google Drive version of SVG files: [here](http://bit.ly/FIGR-8-SVG "FIGR-8-SVG GoogleDrive")
 
+Academic Torrents download: [here](http://academictorrents.com/details/55911e0af5be7c7ccbbff5d35a8a8dfc2275bc50 "FIGR-8-SVG Academic Torrents")
+
+
 If you use this database for your own projects, please consider __citing the following paper__:
 
 	@article{DBLP:journals/corr/abs-1901-02199,
